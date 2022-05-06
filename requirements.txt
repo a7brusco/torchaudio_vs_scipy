@@ -1,0 +1,6 @@
+scipy==1.8.0
+numpy==1.21.6
+matplotlib
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1
+torchaudio==0.7.2
